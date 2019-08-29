@@ -1,0 +1,11 @@
+html {
+  background-color: #C3F7F7;
+}
+h1,
+h2,
+h4 {
+  color: red;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 37px;
+}
